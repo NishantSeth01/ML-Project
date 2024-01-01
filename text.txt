@@ -1,0 +1,48 @@
+Inches                0.068197
+Ram                   0.743007
+Weight                0.210370
+Acer                 -0.208349
+Apple                 0.080688
+Asus                 -0.010376
+Chuwi                -0.055646
+Dell                  0.048509
+Fujitsu              -0.027135
+Google                0.038086
+HP                   -0.041291
+Huawei                0.016851
+LG                    0.067053
+Lenovo               -0.029007
+MSI                   0.180100
+Mediacom             -0.087161
+Microsoft             0.047562
+Razer                 0.233756
+Samsung               0.034584
+Toshiba               0.040339
+Vero                 -0.071972
+Xiaomi                0.000776
+2 in 1 Convertible    0.072675
+Gaming                0.375789
+Netbook              -0.097572
+Notebook             -0.549248
+Ultrabook             0.255658
+Workstation           0.249752
+ScreenWidth           0.556529
+ScreenHeight          0.552809
+CpuFreq               0.430293
+Storage              -0.122365
+Android              -0.038700
+Chrome OS            -0.118684
+Linux                -0.162060
+Mac OS X              0.015656
+No OS                -0.177094
+Windows 10            0.137048
+Windows 10 S          0.018312
+Windows 7             0.152381
+macOS                 0.089928
+AMD_CPU              -0.180111
+Intel_CPU             0.181127
+Samsung_CPU          -0.018431
+AMD_GPU              -0.199415
+ARM_GPU              -0.018431
+Intel_GPU            -0.184205
+Nvidia_GPU            0.348797
